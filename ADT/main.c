@@ -1,6 +1,6 @@
 //
 //  main.c
-//  ADT
+//  ADT for git
 //  test in orin
 //  Created by redboy on 06/11/2018.
 //  Copyright © 2018 children. All rights reserved.
